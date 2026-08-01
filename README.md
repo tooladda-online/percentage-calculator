@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 Percentage Calculator
+# 🧮 Percentage Calculator
 
 ### Use Percentage Calculator free on ToolAdda — quick, accurate, and browser-based.
 
